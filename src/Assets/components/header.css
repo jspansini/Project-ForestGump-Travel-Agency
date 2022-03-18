@@ -1,0 +1,28 @@
+.navbar{
+    margin:0 !important;
+    padding:0 !important;
+    box-sizing: border-box !important;
+    background: black;
+    color: white !important;
+    justify-content: space-between !important;
+    
+}
+
+header{
+    margin-bottom: 50px!important;
+}
+.navbar-toggler-icon{
+    color:white;
+}
+
+.nav-link{
+    color:white;
+}
+
+.bi .bi-list{
+    background: white;
+}
+
+.imgLogo{
+    margin-left: 50px;
+}

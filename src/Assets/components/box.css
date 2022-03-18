@@ -1,0 +1,56 @@
+
+.cards-cadastros{
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.card-int{
+    background:#5a62a7;
+    width: 60%;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;   
+    flex-direction: row;
+}
+
+.inputs{
+
+    border-radius: 5px;
+    padding: 10px;
+}
+.labels{
+    border-radius: 10px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.card-int form{
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-int form input{
+    width: 50%;
+}
+
+.card-int .btn{
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.divCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

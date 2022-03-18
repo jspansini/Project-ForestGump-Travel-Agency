@@ -1,0 +1,171 @@
+
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  margin:0;
+}
+
+.collapse{
+  display: flex;
+  justify-content: space-around;
+
+}
+.container-fluid{
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards.descriptions{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.nav-item{
+  font-size: 20px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.nav-item:hover{
+  opacity: 0.8;
+  background: #AADEE4;
+  border-radius: 10px;
+}
+
+
+.navbar-brand{
+ padding-right: 20px;
+}
+
+div{
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.top-sec img{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+img:hover{
+  opacity: 0.7;
+}
+a{
+  cursor: pointer;
+}
+h2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+h3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+h3:hover{
+  opacity: 0.7;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.about{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-weight: bold;
+
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  margin-bottom: 10px;
+}
+
+.container-destino{
+  display: flex;
+  flex-direction: column;
+}
+.container-destino div .btn{
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: #f89c3273;
+  font-weight: bold;
+  color: black;
+
+}
+.titulos{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+}
+
+.destinos{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-items: center;
+
+}
+.card{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  width: 100%;
+}
+
+.form .form-box{
+  width: 60%;
+}
+.button{
+  background: #F89C32;
+  border-radius: 5px;
+  margin-top: 40px;
+  width:160px;
+}
+
+.contatos{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items:center;
+  justify-content: center;
+  padding: 30px;
+  
+  
+
+}
+
+.contatos img{
+  width: 80px;
+}
+
+.contact-img{
+  margin: 50px;
+}
+

@@ -1,0 +1,99 @@
+.cardscadastros{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-transform: uppercase;
+}
+
+.card-int{
+    background: rgb(110, 207, 251);
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 50px;
+
+}
+.labels{
+    border-radius: 10px;
+}
+.card-int form{
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-int form input{
+    width: 80%;
+}
+
+.card-int .btn{
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    max-width: 300px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+}
+
+.divCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagemAltered{
+    border-radius: 10px;
+    width: 50%;
+}
+
+/*.cardscadastros{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10%;
+    text-transform: uppercase;
+}
+
+.card-int{
+    display: block;
+    flex-wrap: wrap;
+    background:;
+    width: 60%;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 250px;
+}
+
+.card-int form input{
+    width: 80%;
+    padding: 5px;
+    border-color: white;
+}
+
+.btn:hover{
+    opacity: 0.7;;
+}
+
+
+.card-int form{
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagemAltered{
+    border-radius: 10px;
+    width: 50%;
+    background-color: white;
+}
+
+.card-fix{
+    margin-top: 5px;
+    padding: 5px;
+}*/
