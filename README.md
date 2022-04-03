@@ -2,11 +2,11 @@
 
 <p> Aprendendo a usar funções de click/over do mouse </p>
 
-🛠 Linguagens e Ferramentas:
-HTML
-CSS
-JSX
-REACTjs
-JAVA
+🛠 Linguagens e Ferramentas:<br>
+HTML<br>
+CSS<br>
+JSX<br>
+REACTjs<br>
+JAVA<br>
 
 <strong> IDEs utilizadas: visual studio code + eclipse </strong>
